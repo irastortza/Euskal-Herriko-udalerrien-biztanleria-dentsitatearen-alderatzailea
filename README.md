@@ -25,7 +25,7 @@ Gainera, errepositorioan dauden baina programaren .adb fitxategian ez dauden hai
 
 Lizentzia
 -------
-Copyright (C) 2020, Xabier Irastorza<br>
+Copyright (C) 2020, Xabier Irastorza Urbieta<br>
 Licensed under the terms of the GNU General Public License, either version 3 or (at your option) any later version. A full copy of the license can be found in LICENSE.txt.<br>
 This project includes third party libraries; please see libraries/ for copyright details pertaining to them.<br>
 
